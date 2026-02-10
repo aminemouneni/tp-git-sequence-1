@@ -1,0 +1,8 @@
+# Ignorer l'exécutable spécifique
+bienvenue
+
+# Ignorer tous les fichiers objets
+*.o
+
+# Ignorer les éventuels fichiers de sortie par défaut
+a.out
