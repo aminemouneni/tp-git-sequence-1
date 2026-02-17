@@ -1,1 +1,3 @@
-Ceci est un projet d'introduction à Git.
+# Bienvenue
+Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
+`afficherBienvenue()`.
